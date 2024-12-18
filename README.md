@@ -34,7 +34,7 @@
 | Medera Backend           | [https://medera-backend.onrender.com/api](https://medera-backend.onrender.com/api)                   | The backend service for the Medera project.                                                                                 |
 | Medera Trust Registry    | [https://hashscan.io/testnet/contract/0.0.5256922](https://hashscan.io/testnet/contract/0.0.5256922) | The TrustRegistry is a smart contract that provides functionality for managing a registry of Hedera DIDs.                   |
 
-> Note: To ensure the demo works seamlessly, head over to the [hosted backend](https://medera-backend.onrender.com/api#/) and ensure the application is up and running by observing the response for these three endpoints [/doctor/agentDetails](https://medera-backend.onrender.com/api#/Agent), [/doctor/agentDetails](https://medera-backend.onrender.com/api#/Doctor) and [/pharmacy/agentDetails](https://medera-backend.onrender.com/api#/Pharmacy) to ensure the backend is brought into cache by the hosting provider 
+> Note: To ensure the demo works seamlessly, head over to the [hosted backend](https://medera-backend.onrender.com/api#/) and ensure the application is up and running by observing the response for these three endpoints [/agent/agentDetails](https://medera-backend.onrender.com/api#/Agent), [/doctor/agentDetails](https://medera-backend.onrender.com/api#/Doctor) and [/pharmacy/agentDetails](https://medera-backend.onrender.com/api#/Pharmacy) to ensure the backend is brought into cache by the hosting provider 
 ---
 
 ## Repositories and Links
