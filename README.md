@@ -1,21 +1,44 @@
-# Hello Future 2.0 Hackathon 2024
+# Hello Future 2.0 Hackathon 2024 <!-- omit from toc -->
 
-## Project Name: _Medera_
+---
 
-- [Hello Future 2.0 Hackathon 2024](#hello-future-20-hackathon-2024)
-  - [Project Name: _Medera_](#project-name-medera)
-    - [Project Overview](#project-overview)
-    - [Repositories and Links](#repositories-and-links)
-    - [Pitch Deck](#pitch-deck)
-    - [Demo](#demo)
-    - [Architecture](#architecture)
-    - [Contributors](#contributors)
+## Project Name: _Medera_ <!-- omit from toc -->
 
-### Project Overview
+![Medera Logo](./assets/medera.png)
+
+---
+
+## Table of Contents <!-- omit from toc -->
+
+- [Project Overview](#project-overview)
+- [Deployed Links](#deployed-links)
+- [Repositories and Links](#repositories-and-links)
+- [Pitch Deck](#pitch-deck)
+- [Demo](#demo)
+- [Architecture](#architecture)
+- [Contributors](#contributors)
+
+---
+
+## Project Overview
 
 **Medera** aims to revolutionize healthcare by leveraging the power of distributed ledger technology (DLT). Using the **Hedera** network, we ensure secure, transparent, and decentralized healthcare solutions.
 
-### Repositories and Links
+---
+
+## Deployed Links
+
+| Service                  | URL                                                                                                  | Description                                                                                               |
+| ------------------------ | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| Medera Clinic Frontend   | [https://medera-clinic-frontend.vercel.app](https://medera-clinic-frontend.vercel.app/)              | The frontend service for the Medera Clinic project.                                                       |
+| Medera Pharmacy Frontend | [https://medera-pharmacy-frontend.vercel.app](https://medera-pharmacy-frontend.vercel.app/)          | The frontend service for the Medera Pharmacy project.                                                     |
+| Medera Mobile Wallet     | [Medera Mobile Wallet APK](https://drive.google.com/file/d/1MoS4d-ALYpfBKiljtm_-G1peWmLyeC6V/view)   | The mobile wallet for the Medera project.                                                                 |
+| Medera Backend           | [https://medera-backend.onrender.com/api](https://medera-backend.onrender.com/api)                   | The backend service for the Medera project.                                                               |
+| Medera Trust Registry    | [https://hashscan.io/testnet/contract/0.0.5256922](https://hashscan.io/testnet/contract/0.0.5256922) | The TrustRegistry is a smart contract that provides functionality for managing a registry of Hedera DIDs. |
+
+---
+
+## Repositories and Links
 
 > Note: Each of the following repositories contains detailed information about the project, including installation instructions and more.
 
@@ -43,21 +66,31 @@
 
 - This repository contains the mobile wallet for the Medera project, a healthcare solution built using the Hedera Hashgraph platform. The application is developed using React Native.(We have started the development of the Medera mobile wallet from the adeya-wallet repository and proceed to make the changes to the codebase to suit the requirements of the hackathon and to add the functionalities required for the hackathon for the hedera credo Module and hbar payment module.)
 
-### Pitch Deck
+---
 
-- Pitch deck
+## Pitch Deck
 
-### Demo
+> Note: The pitch deck will be uploaded soon.
+
+---
+
+## Demo
 
 > Note: The demo video will be uploaded soon.
 
-### Architecture
+---
 
-> Note: The architecture diagram will be uploaded soon.
+## Architecture
 
-### Contributors
+![Medera Architecture](./assets/medera-architecture.png)
+
+---
+
+## Contributors
 
 1. [Pranali Dhanavade](https://github.com/pranalidhanavade)
 2. [Krishna Waske](https://github.com/GHkrishna)
 3. [Tipu Singh](https://github.com/tipusinghaw)
-4. [Sai Ranjit](https://github.com/sairanjit)
+4. [Sai Ranjit Tummalapalli](https://github.com/sairanjit)
+
+---
