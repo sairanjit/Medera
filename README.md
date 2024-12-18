@@ -68,13 +68,13 @@
 
 ## Pitch Deck
 
-> Note: The pitch deck will be uploaded soon.
+[Pitch Deck PDF](https://drive.google.com/file/d/1sqFWlfV2qZnzWAfWkxn6vMiE5Iyiyj6R/view?usp=sharing)
 
 ---
 
 ## Demo
 
-> Note: The demo video will be uploaded soon.
+[![Demo Video](https://img.youtube.com/vi/RID-U56hPLo/0.jpg)](https://www.youtube.com/watch?v=RID-U56hPLo)
 
 ---
 
