@@ -1,8 +1,6 @@
 # Hello Future 2.0 Hackathon 2024 <!-- omit from toc -->
 
----
-
-## Project Name: _Medera_ <!-- omit from toc -->
+## Project Name: **Medera** <!-- omit from toc -->
 
 ![Medera Logo](./assets/medera.png)
 
